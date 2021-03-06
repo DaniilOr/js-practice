@@ -1,0 +1,18 @@
+@media screen and (max-width: 1087px) {
+  .navbar-menu {
+    background-color: #757575;
+  }
+}
+
+.logo-link {
+  height: 70px;
+  width: 250px;
+}
+
+.logo-link img {
+  width: 100%;
+}
+
+li {
+  list-style: none;
+}
